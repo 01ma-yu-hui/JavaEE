@@ -8,4 +8,7 @@ package com.it.myh;
  * @Version: 1.0     // 版本
  */
 public class Test {
+    public static void main(String[] args) {
+        System.out.println("至此，开始学习Git---od");
+    }
 }
